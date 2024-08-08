@@ -1,4 +1,4 @@
-# Git 教程
+# Git
 
  - feature-A
  - fix-B
